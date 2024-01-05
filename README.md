@@ -7,5 +7,5 @@ The only requirement is that you have [Deno v1.34.x](https://deno.land) installe
 ## Usage ##
 From the project folder, simply run `deno run -A main.js`.
   
-## Sources ##
-Included are source files that map zip codes to lat/lon pairs. The initial CSV is taken from [Geonames](http://download.geonames.org/export/zip/).
+## Prerequisites / Sources ##
+You will need to download the [Geonames Cities 500 data file](http://download.geonames.org/export/dump/cities500.zip) and place it in this directory with the name `cities500.txt`
