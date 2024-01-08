@@ -1,11 +1,11 @@
-11201   40.696  -73.989
-Boston,MA      42.359     -71.057
-LosAngeles,CA  34.054     -118.245
-NewOrleans,LA  29.954     -90.078
-Dallas,TX      32.778     -96.795
-SanDiego,CA    32.716     -117.162
-SanFrancisco,VA           37.777        -122.42
-Denver,CO                 39.74         -104.992
-SilverSpring,MD           38.997        -77.029
-Reston,VA                 38.96         -77.355
-Sacramento,CA             38.579        -121.491
+11201|40.696|-73.989
+Boston, MA|42.359|-71.057
+Los Angeles, CA|34.054|-118.245
+New Orleans, LA|29.954|-90.078
+Dallas, TX|32.778|-96.795
+San Diego,CA|32.716|-117.162
+San Francisco, CA|37.777|-122.42
+Denver, CO|39.74|-104.992
+Silver Spring, MD|38.997|-77.029
+Reston, VA|38.96|-77.355
+Sacramento, CA|38.579|-121.491

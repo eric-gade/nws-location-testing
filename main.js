@@ -9,7 +9,7 @@ const getInputLocations = async () => {
   const text = await Deno.readTextFile(path);
   const locations = text.split("\n")
         .map(line => {
-          return line.split(" ")
+          return line.split("|")
             .filter(chunk => chunk != "");
         }).filter(line => line != "");
   return locations;
